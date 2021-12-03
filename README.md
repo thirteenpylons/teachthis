@@ -10,3 +10,9 @@ My hub for teaching
     So this will be an open source guide to teaching coding where
     if the student sees issues they can contribute and make it a
     better class.
+
+## Contributing
+    We accept contributions through Pull Requests.
+    This project will not get anywhere without you! I simply do not know
+    everything and cannot be perfect.
+    Follow the CODE_OF_CONDUCT.
