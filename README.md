@@ -1,5 +1,5 @@
 # teachthis
-My hub for teaching
+    My hub for teaching and learning
 
 ## Idea
     I'm tired of taking these classes that are missing key elements
